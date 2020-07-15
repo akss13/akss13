@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hello 👋, this is Aakarsh Singh Saini
 
+I'm a final year student currently pursuing B.Tech. in Information Technology from SRM Institute of Science and Technology. My interests lie in networking, embedded systems, scripting and software development. I like working with microcontrollers and new technologies. I'm an avid contributor to open-source projects.
+
+My website...:point_down:<br>
+[akss13](https://akss13.github.io/) :)
 <!--
 **akss13/akss13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
